@@ -2,6 +2,12 @@
 
 **Modelo predictivo para anticipar si un pasajero dejará una propina ≥20%, usando datos de la Comisión de Taxis y Limusinas (TLC NYC).**
 
+
+![image](https://github.com/user-attachments/assets/9c20f2d5-3b05-4188-a2a7-bae1770fb8c5)
+
+
+
+
 ## 📌 Objetivo del Proyecto
 
 Implementar modelos de Machine Learning capaces de predecir con alta precisión la propensión de un pasajero a dejar una propina generosa *antes* del inicio del viaje, mejorando así estrategias de servicio y bonificación.
